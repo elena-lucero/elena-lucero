@@ -49,7 +49,6 @@ ca   Catalan    advanced
 en   English    intermediate
 de   German     learning
 ```
-
 <br>
 
 <p align="center">
