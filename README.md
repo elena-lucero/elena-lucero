@@ -45,7 +45,7 @@ path      : Blue Team → SOC → Cloud Security
 
 ```text
 es   Spanish    native
-it   Italian    bilingual
+it   Italian    advanced
 ca   Catalan    advanced
 en   English    intermediate
 de   German     learning
