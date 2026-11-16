@@ -25,23 +25,16 @@ path      : Blue Team → SOC → Cloud Security
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3EC6D6,100:0D1117&height=2" width="100%" alt="">
 
-## `$ ls ./labs`
+## `$ cd ./portfolio`
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <sub><code>LAB 01</code></sub>
-      <h3>Metasploitable2 Lab</h3>
-      <p>Kali LAB and Metasploitable2 on an isolated host-only network in UTM: a safe space to practise.</p>
-      <p><code>UTM</code> <code>Kali Linux</code> <code>Metasploitable2</code></p>
-      <a href="https://github.com/khalehna/cybersecurity-portfolio/blob/main/home-lab-metasploitable2.md"><b>Read write-up →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><code>LAB 02</code></sub>
-      <h3>Home Lab · Raspberry Pi</h3>
-      <p>Pi-hole as DNS filter for my own devices, reachable from outside home through a WireGuard VPN.</p>
-      <p><code>Raspberry Pi</code> <code>Pi-hole</code> <code>WireGuard</code></p>
-      <a href="https://github.com/khalehna/cybersecurity-portfolio/blob/main/raspberry-pi-pihole-vpn.md"><b>Read write-up →</b></a>
+    <td align="center" width="600">
+      <sub><code>REPOSITORY</code></sub>
+      <h3>Cybersecurity Portfolio</h3>
+      <p>Hands-on labs built and documented by me.</p>
+      <p><code>Kali Linux</code> <code>Metasploitable2</code> <code>Raspberry Pi</code> <code>Pi-hole</code> <code>WireGuard</code></p>
+      <a href="https://github.com/khalehna/cybersecurity-portfolio"><b>Open portfolio →</b></a>
     </td>
   </tr>
 </table>
@@ -57,16 +50,6 @@ ca   Catalan    advanced
 en   English    intermediate
 de   German     learning
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3EC6D6,100:0D1117&height=2" width="100%" alt="">
-
-<details>
-  <summary><code>$ ./aquarium.sh</code></summary>
-  <br>
-  <p align="center">
-    <img src="aquarium.svg" width="100%" alt="ASCII fish swimming with bubbles">
-  </p>
-</details>
 
 <br>
 
