@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elenalucero"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzNFQzZENiIvPjxjaXJjbGUgY3g9IjcuNSIgY3k9IjcuMyIgcj0iMS42IiBmaWxsPSIjMEQxMTE3Ii8%2BPHJlY3QgeD0iNi4xIiB5PSIxMCIgd2lkdGg9IjIuOCIgaGVpZ2h0PSI4IiBmaWxsPSIjMEQxMTE3Ii8%2BPHBhdGggZD0iTTExIDEwaDIuN3YxLjJjLjYtLjkgMS42LTEuNCAyLjktMS40IDIgMCAzLjIgMS4zIDMuMiAzLjhWMThoLTIuOHYtNC4xYzAtMS4yLS41LTEuOC0xLjUtMS44cy0xLjcuNy0xLjcgMS45VjE4SDExeiIgZmlsbD0iIzBEMTExNyIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
-  <a href="https://github.com/elena-lucero/cybersecurity-portfolio"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=3EC6D6" alt="Portfolio"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3EC6D6,100:0D1117&height=2" width="100%" alt="">
